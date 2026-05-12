@@ -1,0 +1,24 @@
+# Personal planning docs (contain NDA-sensitive references)
+PLAN.md
+PLAN2.md
+
+# Business / personal data
+*.xlsx
+*.xls
+*.csv
+
+# Unrelated experiments
+profile.html
+stopwatch-minimal.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
